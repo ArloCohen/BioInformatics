@@ -1,0 +1,4 @@
+2.a. Both trees have the same parsimony score: 2.
+They also both have ‘A’ as each of their internal nodes, as they have mostly A’s as leaves.
+Their scores seem to both be two because they have mostly A’s and two non-A characters, so they must make two transitions. 
+
